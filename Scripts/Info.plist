@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>it</string>
+    <key>CFBundleDisplayName</key>
+    <string>Easyshop</string>
+    <key>CFBundleExecutable</key>
+    <string>Easyshop</string>
+    <key>CFBundleIconFile</key>
+    <string>Easyshop</string>
+    <key>CFBundleIdentifier</key>
+    <string>org.easyshop.editor</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Easyshop</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.graphics-design</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>CFBundleDocumentTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeName</key>
+            <string>Progetto Easyshop</string>
+            <key>CFBundleTypeExtensions</key>
+            <array><string>easyshop</string></array>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>LSHandlerRank</key>
+            <string>Owner</string>
+        </dict>
+        <dict>
+            <key>CFBundleTypeName</key>
+            <string>Immagine</string>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>psd</string><string>psb</string><string>tif</string><string>tiff</string>
+                <string>jpg</string><string>jpeg</string><string>png</string><string>heic</string>
+                <string>avif</string><string>webp</string><string>gif</string><string>bmp</string>
+                <string>exr</string><string>dng</string><string>raw</string><string>svg</string><string>pdf</string>
+            </array>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>LSHandlerRank</key>
+            <string>Alternate</string>
+        </dict>
+    </array>
+    <key>UTExportedTypeDeclarations</key>
+    <array>
+        <dict>
+            <key>UTTypeIdentifier</key>
+            <string>org.easyshop.project</string>
+            <key>UTTypeDescription</key>
+            <string>Progetto Easyshop</string>
+            <key>UTTypeConformsTo</key>
+            <array><string>public.data</string></array>
+            <key>UTTypeTagSpecification</key>
+            <dict>
+                <key>public.filename-extension</key>
+                <array><string>easyshop</string></array>
+                <key>public.mime-type</key>
+                <string>application/x-easyshop-project</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+.DS_Store
+.build/
+.swiftpm/
+work/
+.pnpm-store/
+outputs/*.app/
+outputs/*.dmg
+outputs/*.zip
+site/node_modules/
+site/dist/
+site/.wrangler/
+.env
+.env.*
+*.xcuserstate
