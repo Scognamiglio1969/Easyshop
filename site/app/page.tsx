@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 const releaseURL =
-  "https://github.com/Scognamiglio1969/Easyshop/releases/latest/download/Easyshop-0.1.0-alpha.dmg";
+  "https://github.com/Scognamiglio1969/Easyshop/releases/download/v0.1.0-alpha/Easyshop-0.1.0-alpha.dmg";
 const githubURL = "https://github.com/Scognamiglio1969/Easyshop";
 
 const tour = [

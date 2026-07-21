@@ -24,5 +24,6 @@ test("renders the complete Easyshop release page", async () => {
   assert.match(html, /Massimo Scognamiglio/i);
   assert.match(html, /Honest on-device ML/i);
   assert.match(html, /Easyshop-0\.1\.0-alpha\.dmg/i);
+  assert.match(html, /releases\/download\/v0\.1\.0-alpha/i);
   assert.doesNotMatch(html, /Make the subject warmer|Italian shortcuts|Local assistance/i);
 });

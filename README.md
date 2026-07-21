@@ -18,7 +18,7 @@ Easyshop è un editor di immagini nativo per macOS pensato per lavori veloci: ca
 
 ## Download
 
-[Scarica Easyshop 0.1 Alpha](https://github.com/Scognamiglio1969/Easyshop/releases/latest/download/Easyshop-0.1.0-alpha.dmg)
+[Scarica Easyshop 0.1 Alpha](https://github.com/Scognamiglio1969/Easyshop/releases/download/v0.1.0-alpha/Easyshop-0.1.0-alpha.dmg)
 
 Requisiti: macOS 14 o successivo. La build universale include Apple Silicon e Mac Intel. Non essendo notarizzata, al primo avvio usa **Control-click sull’app → Apri → Apri**; non serve il Terminale.
 
