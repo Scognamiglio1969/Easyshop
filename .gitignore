@@ -6,6 +6,7 @@ work/
 outputs/*.app/
 outputs/*.dmg
 outputs/*.zip
+outputs/*.png
 site/node_modules/
 site/dist/
 site/.wrangler/
