@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://easyshop-open.sites.openai.com"),
+  metadataBase: new URL("https://easyshop-open.maxscogna.chatgpt.site"),
   title: "Easyshop — Create at the speed of seeing",
   description: "A native, open-source photo editor for Mac with layers, colour, honest on-device Vision ML and a movable interface built for fast photographic work.",
   openGraph: {
